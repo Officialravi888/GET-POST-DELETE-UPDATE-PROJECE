@@ -19,4 +19,7 @@ public class Student {
     @Id
     private Integer UserId;
     private String name;
+    private String email;
+    private int age;
+    private String address;
 }
